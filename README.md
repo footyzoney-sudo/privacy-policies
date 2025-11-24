@@ -141,7 +141,12 @@
       <article>
         <section class="section" aria-labelledby="intro">
           <h2 id="intro">1. Introduction</h2>
-          <p>Welcome to Football Analyzer. Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our app. We are committed to protecting your privacy and being transparent about our practices.</p>
+          <p>
+Welcome to Football Analyzer.
+Your privacy is important to us. This Privacy Policy explains how we handle your information when you use our app or website.
+
+We are committed to protecting your privacy and being transparent about our practices.
+This app is intended for users aged 15 years and above.</p>
         </section>
 
         <section class="section" aria-labelledby="info">
@@ -173,7 +178,10 @@
 
         <section class="section" aria-labelledby="children">
           <h2 id="children">5. Children’s Privacy</h2>
-          <p>Football Analyzer is not intended for users under the age of 18. We do not knowingly collect personal data from minors. If you believe a child has provided information to the app, please contact us and we will promptly delete it.</p>
+          <p>
+Football Analyzer  is intended for users aged 15 years and above. We do not knowingly collect personal information from children under the age of 15. 
+If we discover that information has been collected from a user under 15, it will be deleted promptly.
+All sports insights and match analysis are for informational and entertainment purposes only, and the app does not offer or promote real-money gambling.”</p>
         </section>
 
         <section class="section" aria-labelledby="changes">
@@ -181,8 +189,15 @@
           <p>We may update this Privacy Policy from time to time. If we make important changes, we will update the “Last updated” date at the top of this page.</p>
         </section>
 
+
         <section class="section" aria-labelledby="contact">
-          <h2 id="contact">7. Contact Us</h2>
+          <h2 id="contact">7. ⚠️ Disclaimer No Real-Money Gambling</h2>
+          <p>Football Analyzer provide  statistical foootball analysis and predictions for entertainment and informational  purpose only.
+It does not offer or facilitate betting or gambling in any form.</p>
+        </section>
+
+        <section class="section" aria-labelledby="contact">
+          <h2 id="contact">8. Contact Us</h2>
           <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
           <p class="contact">📧 <a href="mailto:footyzoney@gmail.com">footyzoney@gmail.com</a></p>
         </section>
@@ -193,6 +208,9 @@
             <li>No personal data collected</li>
             <li>No third-party services used</li>
             <li>No data shared or sold</li>
+            <li>No betting encouragement</li>
+            <li>No real money gambling</li>
+            <li>General sport info app</li>
           </ul>
         </section>
       </article>
